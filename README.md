@@ -3,3 +3,5 @@ A water-purifying concept, that works with Spirulina, Activated coal and UV-C. T
 
 Don't forget to download the libraries and to add them ! (In Arduino IDE > Croquis > Include library > Add ZIP)
 French comments in the Code coming soon !
+
+Need help with Python ? Visit this page : http://www.toptechboy.com/using-python-with-arduino-lessons/
